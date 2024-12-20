@@ -88,7 +88,7 @@ Take a mesmerizing journey across planets, moons, and the Sun with Solar System 
 ## 📜 License
 📝 This project is licensed under the MIT License.
 
-## ✨ Special Thanks
+## ✨ Acknowledgments
 - 🌟 Inspired by the wonders of the universe!
 - 👩‍💻 Created with passion by Nikita Karmakar.
 
