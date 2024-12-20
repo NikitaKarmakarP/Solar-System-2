@@ -64,6 +64,7 @@ Take a mesmerizing journey across planets, moons, and the Sun with Solar System 
 
 ## 🌠 Sneak Peek
 
+![image](https://github.com/user-attachments/assets/c74cc81d-ab80-486c-ab70-98d52e1ddfbd)
 
 ## 🤝 Join the Mission
 🌟 Contributions are welcome! Here's how you can help:
