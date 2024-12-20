@@ -92,5 +92,8 @@ Take a mesmerizing journey across planets, moons, and the Sun with Solar System 
 - 🌟 Inspired by the wonders of the universe!
 - 👩‍💻 Created with passion by Nikita Karmakar.
 
+## 👑 Project Owner
+💼 Nikita Karmakar
+
 ## 🚀 Ready to explore the cosmos? Let’s go!
 Let me know if you’d like to add illustrations, galaxy-themed dividers, or even more flair! 😊
