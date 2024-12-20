@@ -9,16 +9,16 @@ Take a mesmerizing journey across planets, moons, and the Sun with Solar System 
 ## 🚀 **Key Features**  
 
 🌞 **Realistic Design**  
-> Each planet is beautifully crafted with high-quality visuals.  
+- Each planet is beautifully crafted with high-quality visuals.  
 
 🪐 **Interactive Elements**  
-> Hover and click to learn fun facts about celestial bodies.  
+- Hover and click to learn fun facts about celestial bodies.  
 
 💻 **Responsive Layout**  
-> Enjoy the Solar System on desktops, tablets, or mobile devices.  
+- Enjoy the Solar System on desktops, tablets, or mobile devices.  
 
 🎨 **Custom Animations**  
-> Smooth transitions and effects make it an out-of-this-world experience!  
+- Smooth transitions and effects make it an out-of-this-world experience!  
 
 ## 📂 **Project Overview**  
 
