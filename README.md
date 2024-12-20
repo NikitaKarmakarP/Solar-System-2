@@ -20,6 +20,11 @@ Take a mesmerizing journey across planets, moons, and the Sun with Solar System 
 🎨 **Custom Animations**  
 - Smooth transitions and effects make it an out-of-this-world experience!  
 
+## 🌌 Why Solar System 2?
+- Learn by Exploring: Engage with planets and moons directly.
+- Visualize the Cosmos: Experience the scale, design, and layout of our Solar System.
+- Interactive Fun: Discover facts and animations that make learning exciting!
+
 ## 📂 **Project Overview**  
 
 | 🌍 **File**      | 📜 **Description**                                |  
